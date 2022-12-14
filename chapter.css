@@ -1,0 +1,32 @@
+h1{
+    color:rgb(50, 113, 113);
+}
+.row{
+    margin-top:20px;
+}
+.col-title{
+    margin-left:5px;
+}
+.col-image1{
+    height:250px;
+    width:250px;
+    margin-top: 50px;
+    border:1px solid white;
+    border-radius:180px;
+	box-shadow:5px 5px 5px 5px #cbc3c3;
+}
+.col-image2{
+    height:250px;
+    width:250px;
+    border:1px solid white;
+    border-radius:180px;
+    margin-top:20px;
+	box-shadow:5px 5px 5px 5px #cbc3c3;
+}
+.col-body1{
+    margin-left:10px;
+}
+.col-body2{
+    margin-top:70px;
+    margin-left:10px;
+}
